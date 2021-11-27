@@ -1,0 +1,10 @@
+.home-section{
+    display: flex;
+    padding: 30px;
+}
+
+@media only screen and (max-width:769px){
+    .home-section{
+        display: block;
+    }
+}
